@@ -1,0 +1,99 @@
+.mediaViewInfo {
+	--web-view-name: Next Page 1;
+	--web-view-id: Next_Page_1;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Next_Page_1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Next_Page_1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Next Page 1;
+	--web-view-id: Next_Page_1;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+.Rectangle_13_j_Class {
+	fill: url(#Rectangle_13_j);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13_j {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+.Lorem_Ipsum_is_simply_dummy_te_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 487px;
+	top: 164px;
+	position: absolute;
+	overflow: visible;
+	width: 947px;
+	height: 636px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_14_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 578px;
+	height: 93px;
+	left: 671px;
+	top: 833px;
+	--web-animation: fadein 0.3s ease-in;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Back_To_Home_Class {
+	left: 848px;
+	top: 858px;
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Tw Cen MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}

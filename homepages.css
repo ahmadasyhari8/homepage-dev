@@ -1,0 +1,223 @@
+.mediaViewInfo {
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Homepage;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Homepage {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Rectangle_4 {
+	fill: rgba(0,255,246,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 998px;
+	height: 618px;
+	left: -152px;
+	top: 595px;
+}
+#Rectangle_3 {
+	fill: rgba(0,255,246,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1032px;
+	height: 833px;
+	left: 1029px;
+	top: -76px;
+}
+#Rectangle_1 {
+	fill: rgba(0,185,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1550px;
+	height: 775px;
+	left: -152px;
+	top: -76px;
+}
+#Rectangle_2 {
+	fill: rgba(255,187,0,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1412px;
+	height: 732px;
+	left: 649px;
+	top: 481px;
+}
+#Andros_SEO {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 807px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Sylfaen;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Lorem_Ipsum_is_simply_dummy_te {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 487px;
+	top: 209px;
+	position: absolute;
+	overflow: visible;
+	width: 947px;
+	height: 636px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 578px;
+	height: 93px;
+	left: 671px;
+	top: 862px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: nextpage.html;
+	cursor: pointer;
+}
+#Rectangle_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 65px;
+	left: 1564px;
+	top: 39px;
+	--web-animation: fadein 0.8s ease-in;
+	--web-action-type: page;
+	--web-action-target: search.html;
+	cursor: pointer;
+}
+#Search_Something {
+	opacity: 0.37;
+	left: 1635px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Sylfaen;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Union_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1 {
+	overflow: visible;
+	position: absolute;
+	width: 27.048px;
+	height: 29.767px;
+	left: 1591px;
+	top: 58px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Next_Page {
+	left: 874px;
+	top: 887px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-in;
+	--web-action-type: page;
+	--web-action-target: nextpage.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Tw Cen MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
